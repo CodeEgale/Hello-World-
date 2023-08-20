@@ -1,7 +1,6 @@
 public class MyFirstProgram {
-    public static void main(String[] args){
-      /* Write your code here */
+    public static void main(String[] args) {
+        // write your code here
         System.out.println("Hello World !!!");
     }
 }
-
